@@ -16,7 +16,7 @@ export default function PesantrenArRoyyan() {
 
   const rekeningList = [
     { bank: "Bank Syariah Indonesia (BSI)", norek: "1234567890", atas: "Yayasan Pesantren Ar Royyan" },
-    { bank: "Bank Mandiri", norek: "0987654321", atas: "Yayasan Pesantren Ar Royyan" },
+    { bank: "Bank BNI", norek: "0987654321", atas: "Yayasan Pesantren Ar Royyan" },
     { bank: "Bank BRI", norek: "5555666677778888", atas: "Yayasan Pesantren Ar Royyan" }
   ];
 
