@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Pesantren Salaf Ar Royyan',
-  description: 'Mencetak Generasi Qur\'ani dengan Manhaj Salafus Shalih',
+  title: 'Pesantren Ar Royyan Al Islamy Rimbo Bujang',
+  description: 'Mencetak Generasi Qur'ani yang Berakhlak Mulia dan Cerdas Berdasarkan Al-Qur'an dan Sunnah dengan Pemahaman Salafush Shalih',
 }
 
 export default function RootLayout({
