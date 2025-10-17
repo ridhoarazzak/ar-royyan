@@ -36,7 +36,7 @@ export default function PesantrenArRoyyan() {
                 AR
               </div>
               <div>
-                <h1 className="text-2xl font-bold">Pesantren Salaf Ar Royyan</h1>
+                <h1 className="text-2xl font-bold">Pesantren Ar Royyan Al Islamy Rimbo Bujang</h1>
                 <p className="text-sm text-green-200">Mencetak Generasi Qur'ani</p>
               </div>
             </div>
@@ -85,7 +85,7 @@ export default function PesantrenArRoyyan() {
       {/* Hero Section */}
       <section id="beranda" className="bg-gradient-to-r from-green-700 to-green-900 text-white py-20">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">Selamat Datang di Pesantren Salaf Ar Royyan</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Selamat Datang di Pesantren Ar Royyan Al Islamy Rimbo Bujang</h2>
           <p className="text-xl mb-8 text-green-100">Menuntut Ilmu dengan Manhaj Salafus Shalih</p>
           <div className="flex gap-4 justify-center flex-wrap">
             <button 
@@ -107,7 +107,7 @@ export default function PesantrenArRoyyan() {
           <h2 className="text-3xl font-bold text-center mb-12 text-green-800">Tentang Kami</h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-gray-700 leading-relaxed mb-4">
-              Pesantren Salaf Ar Royyan adalah lembaga pendidikan Islam yang berkomitmen untuk mendidik generasi Qur'ani dengan pemahaman yang lurus sesuai dengan manhaj salafus shalih. Kami mengajarkan Al-Qur'an, Hadits, dan kitab-kitab klasik dengan metode yang telah terbukti efektif sejak zaman para ulama terdahulu.
+              Pesantren Ar Royyan Al Islamy Rimbo Bujang adalah lembaga pendidikan Islam yang berkomitmen untuk mendidik generasi Qur'ani dengan pemahaman yang lurus sesuai dengan manhaj salafus shalih. Kami mengajarkan Al-Qur'an, Hadits, dan kitab-kitab klasik dengan metode yang telah terbukti efektif sejak zaman para ulama terdahulu.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Dengan lingkungan yang kondusif dan pengajar yang berkompeten, santri kami dibimbing untuk menjadi pribadi yang berakhlak mulia, berilmu, dan bermanfaat bagi umat.
@@ -150,7 +150,8 @@ export default function PesantrenArRoyyan() {
             <div className="text-center">
               <MapPin className="w-8 h-8 mx-auto mb-3 text-green-700" />
               <h3 className="font-bold mb-2">Alamat</h3>
-              <p className="text-gray-600">Jl. Pesantren No. 123, Palembang</p>
+              <p className="text-gray-600">Jl.Hos Cokrominoto,
+Mandiri Agung,Kec.Rimbo Bujang, Kab.Tebo, Jambi</p>
             </div>
           </div>
         </div>
@@ -159,7 +160,7 @@ export default function PesantrenArRoyyan() {
       {/* Footer */}
       <footer className="bg-green-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="mb-2">&copy; 2025 Pesantren Salaf Ar Royyan. All rights reserved.</p>
+          <p className="mb-2">&copy; 2025 Pesantren Ar Royyan Al Islamy. All rights reserved.</p>
           <p className="text-green-200 text-sm">Jazakumullahu khairan atas dukungan Anda</p>
         </div>
       </footer>
