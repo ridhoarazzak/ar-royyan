@@ -85,7 +85,8 @@ export default function PesantrenArRoyyan() {
       {/* Hero Section */}
       <section id="beranda" className="bg-gradient-to-r from-green-700 to-green-900 text-white py-20">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">Selamat Datang di Pesantren Ar Royyan Al Islamy Rimbo Bujang</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Selamat Datang di
+            Pesantren Ar Royyan Al Islamy Rimbo Bujang</h2>
           <p className="text-xl mb-8 text-green-100">Menuntut Ilmu dengan Manhaj Salafus Shalih</p>
           <div className="flex gap-4 justify-center flex-wrap">
             <button 
